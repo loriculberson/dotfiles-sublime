@@ -2050,7 +2050,7 @@
 					"file": "/Users/loriculberson/.dotfiles/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 1287,
+						"buffer_size": 1286,
 						"line_ending": "Unix"
 					}
 				}
@@ -2437,15 +2437,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1287,
+								"buffer_size": 1286,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1176,
-										1176
+										1089,
+										1089
 									]
 								],
 								"settings":

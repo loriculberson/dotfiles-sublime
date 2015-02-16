@@ -12,7 +12,7 @@
 	<li>Add and commit your files. Type: <strong>git add .</strong> then, <strong>git -m "initial commit"</strong></li>
 	<li>Visit github.com and create a new repository.</li>
 	<li>Copy the name of the repository</li>
-	<li>Type: <strong>git remote add origin</strong>then paste in the repo name>></li>
+	<li>Type: <strong>git remote add origin</strong> then paste in the repo name</li>
 	<li>Type: <strong>git push -u origin master</strong></li>
 <ol>
 <p>As you make changes to your Sublime or other .files, make sure to push them to your new repo!</p>
