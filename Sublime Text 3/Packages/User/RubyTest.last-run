@@ -1,0 +1,4 @@
+{
+	"last_test_run": "ruby -Itest test/solver_test.rb",
+	"last_test_working_dir": "/Users/loriculberson/Turing/projects/puzzle_solver"
+}

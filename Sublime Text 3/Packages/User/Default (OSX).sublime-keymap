@@ -1,0 +1,3 @@
+[
+	{ "keys": ["fn+p"], "command": "insert_snippet", "args": {"name": "require 'pry; binding.pry"} }
+]

@@ -1,0 +1,1697 @@
+{
+	"folder_history":
+	[
+		"/Users/loriculberson/Turing/module1/ruby_lessons/ruby-exercises/mythical-creatures",
+		"/Users/loriculberson/Turing/module2/lessons/task_manager",
+		"/Users/loriculberson/Turing/module2/sequel_tutorial",
+		"/Users/loriculberson/Turing/sequel_tutorial",
+		"/Users/loriculberson/Turing/skill-inventory-crud",
+		"/Users/loriculberson/Turing/projects/task_manager",
+		"/Users/loriculberson/Turing/projects/task_manager/config",
+		"/Users/loriculberson/Turing/projects/lori_web_page",
+		"/Users/loriculberson/Turing/projects/web_guesser",
+		"/Users/loriculberson/Turing/turing-bistro",
+		"/Users/loriculberson",
+		"/Users/loriculberson/Turing/projects/task_manager2",
+		"/Users/loriculberson/railsbridge/test_app",
+		"/Users/loriculberson/Turing/calculator",
+		"/Users/loriculberson/lori",
+		"/Users/loriculberson/turing/projects/task_manager",
+		"/Users/loriculberson/turing/projects/web_guesser",
+		"/Users/loriculberson/exercism/ruby",
+		"/Users/loriculberson/turing/javascript",
+		"/Users/loriculberson/turing",
+		"/Users/loriculberson/turing/sales_engine",
+		"/Users/loriculberson/turing/projects/old_sales_engine2",
+		"/Users/loriculberson/turing/sales_engine_spec_harness",
+		"/Users/loriculberson/turing/dsa",
+		"/Users/loriculberson/turing/Assessments",
+		"/Users/loriculberson/turing/sales_engine_spec_harness/csvs",
+		"/Users/loriculberson/turing/credit_card_check/credit_card_check2",
+		"/Users/loriculberson/turing/credit_card_check",
+		"/Users/loriculberson/turing/scrabble",
+		"/Users/loriculberson/turing/Assessments/scrabble7",
+		"/Users/loriculberson/Turing/sales_engine",
+		"/Users/loriculberson/Turing/scrabble",
+		"/Users/loriculberson/Turing/homework/creating_csvs/csv_how_to",
+		"/Users/loriculberson/Turing/Self_guided_study",
+		"/Users/loriculberson/Turing/Assessments",
+		"/Users/loriculberson/Turing/projects/old_sales_engine2",
+		"/Users/loriculberson/Turing/sales_engine3",
+		"/Users/loriculberson/Turing/event_manager",
+		"/Users/loriculberson/Turing/homework/creating_csvs",
+		"/Users/loriculberson/Turing/sales_engine/test",
+		"/Users/loriculberson/Turing/projects/sales_engine",
+		"/Users/loriculberson/Turing/projects/csv_how_to",
+		"/Users/loriculberson/Turing/projects/fib",
+		"/Users/loriculberson/Turing",
+		"/Users/loriculberson/exercism/ruby/roman-numerals",
+		"/Users/loriculberson/Turing/event_manager2",
+		"/Users/loriculberson/Turing/chisel",
+		"/Users/loriculberson/Turing/text_editor",
+		"/Users/loriculberson/exercism/ruby/difference-of-squares",
+		"/Users/loriculberson/exercism/ruby/gigasecond",
+		"/Users/loriculberson/Turing/exercism/ruby",
+		"/Users/loriculberson/Turing/diagnostics",
+		"/Users/loriculberson/Turing/projects/puzzle_solver/sudoku3",
+		"/Users/loriculberson/Turing/projects/puzzle_solver/sudoku2",
+		"/Users/loriculberson/Turing/projects/puzzle_solver/puzzle_solver_deadwood/with_horace",
+		"/Users/loriculberson/Turing/projects/puzzle_solver",
+		"/Users/loriculberson/Turing/diagnostics/ruby-exercises/mythical-creatures",
+		"/Users/loriculberson/Turing/homework/string",
+		"/Users/loriculberson/Turing/homework/array_basics",
+		"/Users/loriculberson/Turing/enums-exercises",
+		"/Users/loriculberson/Turing/ruby_lessons/ruby-exercises/mythical-creatures",
+		"/Users/loriculberson/Turing/text_editor/inject_practice",
+		"/Users/loriculberson/Turing/text_editor/test-bed",
+		"/Users/loriculberson/Turing/alex_battleship",
+		"/Users/loriculberson/Turing/projects/mastermindlc",
+		"/Users/loriculberson/Turing/projects/mastermind2",
+		"/Users/loriculberson/shoppy",
+		"/Users/loriculberson/Turing/numbermind_rw",
+		"/Users/loriculberson/Turing/enums-exercises/exercises",
+		"/Users/loriculberson/Turing/Self_guided_study/guesser",
+		"/Users/loriculberson/Turing/Self_guided_study/number_guesser",
+		"/Users/loriculberson/Turing/polish_calc2/polish-notation-calc",
+		"/Users/loriculberson/Turing/ruby_lessons/ruby-exercises/objects-and-methods/exercise-2",
+		"/Users/loriculberson/Turing/numbermind2",
+		"/Users/loriculberson/Turing/polish_calc2",
+		"/Users/loriculberson/Turing/linked_lists",
+		"/Users/loriculberson/Turing/ruby_lessons/ruby-exercises/objects-and-methods/exercise-1",
+		"/Users/loriculberson/Turing/calculator/new_calculator",
+		"/Users/loriculberson/Turing/nss",
+		"/Users/loriculberson/Turing/Self_guided_study/ruby-exercises/mythical-creatures",
+		"/Users/loriculberson/Turing/nss/NSS_Linked_List",
+		"/Users/loriculberson/Turing/homework",
+		"/Users/loriculberson/Turing/Self_guided_study/ruby-exercises/objects-and-methods/exercise-1",
+		"/Users/loriculberson/Turing/css_html",
+		"/Users/loriculberson/Turing/Assessments/scrabble3",
+		"/Users/loriculberson/Turing/homework/make_car",
+		"/Users/loriculberson/Turing/homework/credit_card3/credit_card_TDD",
+		"/Users/loriculberson/Turing/homework/credit_card3",
+		"/Users/loriculberson/Turing/homework/credit_card2",
+		"/Users/loriculberson/Turing/homework/encryption",
+		"/Users/loriculberson/Turing/Self_guided_study/ruby-exercises/objects-and-methods/exercise-2",
+		"/Users/loriculberson/Turing/exercism/ruby/hamming",
+		"/Users/loriculberson/Turing/CSV tutorials/csv-exercisesv3/level-i/shopping_list",
+		"/Users/loriculberson/Turing/CSV tutorials/csv-exercisesv3/level-i/report_card",
+		"/Users/loriculberson/exercism/ruby/hamming",
+		"/Users/loriculberson/exercism/ruby/raindrops",
+		"/Users/loriculberson/Turing/exercism",
+		"/Users/loriculberson/Turing/code_retreat/robot",
+		"/Users/loriculberson/Turing/Assessments/scrabble3/scrabble",
+		"/Users/loriculberson/Turing/Assessments/scrabble4/scrabble",
+		"/Users/loriculberson/Turing/Assessments/scrabble",
+		"/Users/loriculberson/Turing/enumerable-challenges",
+		"/Users/loriculberson/Turing/Assessments/scrabble2/scrabble",
+		"/Users/loriculberson/Turing/Assessments/scrabble4",
+		"/Users/loriculberson/Turing/Assessments/scrabble2",
+		"/Users/loriculberson/Turing/Assessments/scrabble1",
+		"/Users/loriculberson/Turing/projects/sales_engine_spec_harness",
+		"/Users/loriculberson/Turing/projects/sales_engine_spec_harness/spec",
+		"/Users/loriculberson/Turing/scrabble2/scrabble",
+		"/Users/loriculberson/Turing/alogrithms_with_horace/bubble_and_selection_sort",
+		"/Users/loriculberson/Turing/performance_of_code",
+		"/Users/loriculberson/Turing/scrabble3/scrabble",
+		"/Users/loriculberson/Turing/testing-dependency-injection",
+		"/Users/loriculberson/Turing/testing-dependency-injection/testing-dependency-injection VRachel",
+		"/Users/loriculberson/Turing/scrabble4/scrabble",
+		"/Users/loriculberson/Turing/ruby_lessons/ruby-exercises/command-query",
+		"/Users/loriculberson/Turing/scrabble4",
+		"/Users/loriculberson/Turing/minitest_playground",
+		"/Users/loriculberson/Turing/heaven_help_us_event_reporter",
+		"/Users/loriculberson/Turing/projects/event_reporter",
+		"/Users/loriculberson/Turing/projects/lori_event_reporter",
+		"/Users/loriculberson/Turing/CSV tutorials/csv_attempt_2/level-i/phone_book",
+		"/Users/loriculberson/Turing/mastermind",
+		"/Users/loriculberson/Turing/measuring_and_improving_test_coverage",
+		"/Users/loriculberson/Turing/projects/event_reporter/lib",
+		"/Users/loriculberson/Turing/CSV tutorials/formatting_a_csv",
+		"/Users/loriculberson/Turing/CSV tutorials",
+		"/Users/loriculberson/Turing/CSV tutorials/csv_attempt_2"
+	],
+	"last_version": 3065,
+	"last_window_id": 645,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 385.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"tas",
+						"task_manager"
+					],
+					[
+						"dec",
+						"description"
+					],
+					[
+						"find_i",
+						"find_transactions_by_invoice_id"
+					],
+					[
+						"reverse_",
+						"reversed_arr"
+					],
+					[
+						"number",
+						"number"
+					],
+					[
+						"invoi",
+						"invoice_items"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"scor",
+						"score_for_word"
+					],
+					[
+						"invoic",
+						"invoice_items_repo_self"
+					],
+					[
+						"customers",
+						"customers_objects"
+					],
+					[
+						"customer",
+						"customers_repo"
+					],
+					[
+						"legist",
+						"legislator_names"
+					],
+					[
+						"allowed",
+						"allowed_to_become_human"
+					],
+					[
+						"ident",
+						"chunk_identifier"
+					],
+					[
+						"Guess",
+						"GuessEvaluator"
+					],
+					[
+						"te",
+						"test_it_exists"
+					],
+					[
+						"par",
+						"parser"
+					],
+					[
+						"po",
+						"positions"
+					],
+					[
+						"num_to",
+						"num_to_double_doubled"
+					],
+					[
+						"cand",
+						"candy_count"
+					],
+					[
+						"name",
+						"named_items"
+					],
+					[
+						"it",
+						"item_repository"
+					],
+					[
+						"Shop",
+						"shopping_list"
+					],
+					[
+						"find",
+						"find_item_by_name"
+					],
+					[
+						"cran",
+						"cranky_tracker"
+					],
+					[
+						"cla",
+						"cla	class .. end"
+					],
+					[
+						"score",
+						"score_value"
+					],
+					[
+						"inv",
+						"invoice_repository"
+					],
+					[
+						"has",
+						"hash_groupz"
+					],
+					[
+						"att",
+						"attr_reader_happy"
+					],
+					[
+						"point",
+						"point_value"
+					],
+					[
+						"ta",
+						"total_score"
+					],
+					[
+						"tra",
+						"transaction_repository"
+					],
+					[
+						"in",
+						"invoice_repository"
+					],
+					[
+						"fi",
+						"find_all"
+					],
+					[
+						"user",
+						"user_email"
+					],
+					[
+						"email",
+						"email_address"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"leg",
+						"legislators_by_zipcode"
+					],
+					[
+						"le",
+						"legislator_names"
+					],
+					[
+						"legisla",
+						"Legislator"
+					],
+					[
+						"legis",
+						"legislator_names"
+					],
+					[
+						"clo",
+						"columns"
+					],
+					[
+						"index",
+						"index_current_min"
+					],
+					[
+						"ele",
+						"elapsed_time"
+					],
+					[
+						"en",
+						"end_time"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"guest",
+						"guess_evaluator"
+					],
+					[
+						"too",
+						"too_long"
+					],
+					[
+						"secret",
+						"secret_code"
+					],
+					[
+						"pr",
+						"prompt_for_answer"
+					],
+					[
+						"user_g",
+						"user_guess_count"
+					],
+					[
+						"mini",
+						"minitest-stub_any_instance"
+					],
+					[
+						"require",
+						"require_relative"
+					],
+					[
+						"se",
+						"selected"
+					],
+					[
+						"sec",
+						"selected"
+					],
+					[
+						"assert",
+						"assert_equal"
+					],
+					[
+						"valid_gu",
+						"valid_guess_bank"
+					],
+					[
+						"guess",
+						"guess_evaluator"
+					],
+					[
+						"gr",
+						"group2"
+					],
+					[
+						"E",
+						"Egbert"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 284.0,
+				"selected_items":
+				[
+					[
+						"",
+						"BeautifyRuby"
+					],
+					[
+						"pac",
+						"Package Control: Discover Packages"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/app/controllers/task_manager_app.rb",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/app/models/task_manager.rb",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/app/models/task.rb",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/test/models/task_manager_test.rb",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/test/models/task_test.rb",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/Gemfile",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/db/migrations/001_create_tasks.rb",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/User/pry.sublime-snippet",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/loriculberson/.bash_profile",
+				"/Users/loriculberson/Turing/module2/.bash_profile",
+				"/Users/loriculberson/Turing/module2/sequel_tutorial/database.sqlite3",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/views/dashboard.erb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/views/index.erb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/front_page_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/user_can_delete_skill_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/user_can_edit_skill_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/user_can_delete_skill.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/models/skill_inventory.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/models/skill_inventory_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/models/skill.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/Gemfile",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/models/skill_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/test_helper.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/views/edit.erb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/config.ru",
+				"/Users/loriculberson/Turing/skill-inventory-crud/Rakefile",
+				"/Users/loriculberson/Turing/skill-inventory-crud/config/environment.rb",
+				"/Users/loriculberson/Turing/projects/lori_web_page/lori.rb",
+				"/Users/loriculberson/Turing/projects/lori_web_page/index.erb",
+				"/Users/loriculberson/Turing/projects/task_manager/app/public/style.css",
+				"/Users/loriculberson/Turing/projects/task_manager/app/views/show.erb",
+				"/Users/loriculberson/Turing/projects/task_manager/app/controllers/task_manager_app.rb",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/sublime-text-2-seeing-is-believing/Seeing Is Believing.sublime-settings",
+				"/Users/loriculberson/turing/sales_engine/Gemfile",
+				"/Users/loriculberson/turing/sales_engine/test/items_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_item.rb",
+				"/Users/loriculberson/turing/sales_engine/test/items_repository_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/item_repository.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_repository.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_item_repository.rb",
+				"/Users/loriculberson/turing/sales_engine/test/support/invoices_test_data.csv",
+				"/Users/loriculberson/turing/credit_card_check/credit_card_check2/credit.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/lib/item_repository.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/lib/repository.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/sales_engine_spec_harness/lib/sales_engine_spec_harness.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/sales_engine_spec_harness/csvs/invoices.csv",
+				"/Users/loriculberson/turing/Assessments/scrabble7/lib/scrabble.rb",
+				"/Users/loriculberson/turing/sales_engine/test/customers_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_items.rb",
+				"/Users/loriculberson/turing/sales_engine/test/invoice_items_test.rb",
+				"/Users/loriculberson/turing/sales_engine/test/invoices_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/customers_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoices_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoices.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/merchants.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/customers.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/items.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/transactions.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/merchants_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/test/merchants_test.rb",
+				"/Users/loriculberson/turing/sales_engine/test/invoices_repository_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/transactions_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/sales_engine.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/merchants_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/customers_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/customers.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/merchants_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/merchants_parser.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/customers_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/merchant_repository_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/invoices.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/invoices_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/items_parser.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/invoices_parser.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/items_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/items_repository_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/support/items_test_data.csv",
+				"/Users/loriculberson/Turing/sales_engine/lib/transactions_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/merchants_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/items.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/merchants.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/items_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/support/transactions_test_data.csv",
+				"/Users/loriculberson/Turing/sales_engine/test/transactions_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/transactions.rb",
+				"/Users/loriculberson/Turing/sales_engine/Gemfile",
+				"/Users/loriculberson/Turing/sales_engine/Rakefile",
+				"/Users/loriculberson/Turing/projects/mastermind2/Rakefile",
+				"/Users/loriculberson/Turing/sales_engine/lib/transactions_parser.rb",
+				"/Users/loriculberson/Turing/projects/old_sales_engine2/lib/transaction_repository.rb",
+				"/Users/loriculberson/Turing/projects/fib/fib.rb",
+				"/Users/loriculberson/Turing/chisel/lib/strong_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/test/\"Here is the emphasized document",
+				"/Users/loriculberson/Turing/chisel/test/\"Here is the split document",
+				"/Users/loriculberson/Turing/chisel/lib/emphasis_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/lib/header_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/lib/list_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/lib/paragraph_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/test/emphasis_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/lib/document_splitter.rb",
+				"/Users/loriculberson/Turing/chisel/lib/chunk_identifier.rb",
+				"/Users/loriculberson/.rvm/rubies/ruby-2.1.3/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb",
+				"/Users/loriculberson/Turing/event_manager/lib/event_manager.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/lib/attendee.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/test/attendee_test.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/test/event_manager_test.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/Rakefile",
+				"/Users/loriculberson/Turing/Self_guided_study/Project_Euler/sum_of_multiples.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/puzzle_solver_deadwood/with_horace/sudoku.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/puzzle_solver_deadwood/with_horace/sample_puzzle.txt",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/puzzle_solver_deadwood/with_horace/sudoku_test.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/sudoku2/test/spot_test.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/test/solver_test.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/how_program_works.txt",
+				"/Users/loriculberson/Turing/chisel/chisel_runner.rb",
+				"/Users/loriculberson/Turing/chisel/chisel_go.rb",
+				"/Users/loriculberson/Turing/chisel/test/strong_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/test/list_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/test/header_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/Rakefile",
+				"/Users/loriculberson/Turing/chisel/test/paragraph_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/test/chunk_identifier_test.rb",
+				"/Users/loriculberson/Desktop/sometext.html",
+				"/Users/loriculberson/Turing/chisel/Gemfile"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"save",
+					"def test",
+					"YAML",
+					"greeting",
+					"task",
+					"title",
+					"description",
+					"title",
+					"task",
+					"tasks",
+					"TaskManager",
+					"raw_tasks",
+					"TaskManager",
+					"task",
+					"TaskManager",
+					"task",
+					"Task",
+					"task",
+					"TaskManagerApp",
+					"container",
+					"id",
+					"@",
+					"invoice_id",
+					"successful",
+					"paid?",
+					"total_price",
+					"paid?",
+					"p",
+					"paid?",
+					"score",
+					"play",
+					"score",
+					"play",
+					"score",
+					"test_case_can_score_nil_as_zero",
+					"score",
+					"play",
+					"merchant",
+					"items",
+					"merchant",
+					"Merchant",
+					"merchant",
+					"Merchant",
+					"merchant",
+					"Merchants",
+					"@customers_array",
+					"customers_array",
+					" def initialize\n    @customers_array = []\n  end\n",
+					"customers_array",
+					"@customers_array",
+					"array",
+					"success",
+					"merch",
+					"invoice_test_data",
+					"InvoiceRepo",
+					"invoiceRepo",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"name",
+					"m_parser",
+					"merchants",
+					"transactions",
+					"transactions_parser",
+					"merch",
+					"Merch",
+					"merch",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"MerchantsRepo",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"MerchantsRepo",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"m_parser",
+					"merch",
+					"MerchantsRepo",
+					" filename = './test/support/merchants_test_data.csv'",
+					"filename = ('./test/support/transactions_test_data.csv')",
+					"created_at",
+					"name",
+					"merchants"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 246.0
+			},
+			"output.find_results":
+			{
+				"height": 94.0
+			},
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"packages",
+						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+					],
+					[
+						"",
+						"chisel.rb"
+					],
+					[
+						"code",
+						"lib/code_maker.rb"
+					],
+					[
+						"itemrepo",
+						"test/item_repository_test.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 178.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1232.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"tas",
+						"task_manager"
+					],
+					[
+						"dec",
+						"description"
+					],
+					[
+						"find_i",
+						"find_transactions_by_invoice_id"
+					],
+					[
+						"reverse_",
+						"reversed_arr"
+					],
+					[
+						"number",
+						"number"
+					],
+					[
+						"invoi",
+						"invoice_items"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"scor",
+						"score_for_word"
+					],
+					[
+						"invoic",
+						"invoice_items_repo_self"
+					],
+					[
+						"customers",
+						"customers_objects"
+					],
+					[
+						"customer",
+						"customers_repo"
+					],
+					[
+						"legist",
+						"legislator_names"
+					],
+					[
+						"allowed",
+						"allowed_to_become_human"
+					],
+					[
+						"ident",
+						"chunk_identifier"
+					],
+					[
+						"Guess",
+						"GuessEvaluator"
+					],
+					[
+						"te",
+						"test_it_exists"
+					],
+					[
+						"par",
+						"parser"
+					],
+					[
+						"po",
+						"positions"
+					],
+					[
+						"num_to",
+						"num_to_double_doubled"
+					],
+					[
+						"cand",
+						"candy_count"
+					],
+					[
+						"name",
+						"named_items"
+					],
+					[
+						"it",
+						"item_repository"
+					],
+					[
+						"Shop",
+						"shopping_list"
+					],
+					[
+						"find",
+						"find_item_by_name"
+					],
+					[
+						"cran",
+						"cranky_tracker"
+					],
+					[
+						"cla",
+						"cla	class .. end"
+					],
+					[
+						"score",
+						"score_value"
+					],
+					[
+						"inv",
+						"invoice_repository"
+					],
+					[
+						"has",
+						"hash_groupz"
+					],
+					[
+						"att",
+						"attr_reader_happy"
+					],
+					[
+						"point",
+						"point_value"
+					],
+					[
+						"ta",
+						"total_score"
+					],
+					[
+						"tra",
+						"transaction_repository"
+					],
+					[
+						"in",
+						"invoice_repository"
+					],
+					[
+						"fi",
+						"find_all"
+					],
+					[
+						"user",
+						"user_email"
+					],
+					[
+						"email",
+						"email_address"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"leg",
+						"legislators_by_zipcode"
+					],
+					[
+						"le",
+						"legislator_names"
+					],
+					[
+						"legisla",
+						"Legislator"
+					],
+					[
+						"legis",
+						"legislator_names"
+					],
+					[
+						"clo",
+						"columns"
+					],
+					[
+						"index",
+						"index_current_min"
+					],
+					[
+						"ele",
+						"elapsed_time"
+					],
+					[
+						"en",
+						"end_time"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"guest",
+						"guess_evaluator"
+					],
+					[
+						"too",
+						"too_long"
+					],
+					[
+						"secret",
+						"secret_code"
+					],
+					[
+						"pr",
+						"prompt_for_answer"
+					],
+					[
+						"user_g",
+						"user_guess_count"
+					],
+					[
+						"mini",
+						"minitest-stub_any_instance"
+					],
+					[
+						"require",
+						"require_relative"
+					],
+					[
+						"se",
+						"selected"
+					],
+					[
+						"sec",
+						"selected"
+					],
+					[
+						"assert",
+						"assert_equal"
+					],
+					[
+						"valid_gu",
+						"valid_guess_bank"
+					],
+					[
+						"guess",
+						"guess_evaluator"
+					],
+					[
+						"gr",
+						"group2"
+					],
+					[
+						"E",
+						"Egbert"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/loriculberson/Turing/module1/ruby_lessons/ruby-exercises/mythical-creatures/3centaur.rb",
+					"settings":
+					{
+						"buffer_size": 816,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/loriculberson/Turing/module1/ruby_lessons/ruby-exercises/mythical-creatures/centaur_test.rb",
+					"settings":
+					{
+						"buffer_size": 2999,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 284.0,
+				"selected_items":
+				[
+					[
+						"",
+						"BeautifyRuby"
+					],
+					[
+						"pac",
+						"Package Control: Discover Packages"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/loriculberson/Turing/module1/ruby_lessons/ruby-exercises/mythical-creatures"
+			],
+			"file_history":
+			[
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/test/models/task_test.rb",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/Gemfile",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/test/models/task_manager_test.rb",
+				"/Users/loriculberson/Turing/module2/lessons/task_manager/db/migrations/001_create_tasks.rb",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/User/pry.sublime-snippet",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/loriculberson/.bash_profile",
+				"/Users/loriculberson/Turing/module2/.bash_profile",
+				"/Users/loriculberson/Turing/module2/sequel_tutorial/database.sqlite3",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/views/dashboard.erb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/views/index.erb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/front_page_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/user_can_delete_skill_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/user_can_edit_skill_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/features/user_can_delete_skill.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/models/skill_inventory.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/models/skill_inventory_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/models/skill.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/Gemfile",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/models/skill_test.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/test/test_helper.rb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/app/views/edit.erb",
+				"/Users/loriculberson/Turing/skill-inventory-crud/config.ru",
+				"/Users/loriculberson/Turing/skill-inventory-crud/Rakefile",
+				"/Users/loriculberson/Turing/skill-inventory-crud/config/environment.rb",
+				"/Users/loriculberson/Turing/projects/lori_web_page/lori.rb",
+				"/Users/loriculberson/Turing/projects/lori_web_page/index.erb",
+				"/Users/loriculberson/Turing/projects/task_manager/app/public/style.css",
+				"/Users/loriculberson/Turing/projects/task_manager/app/views/show.erb",
+				"/Users/loriculberson/Turing/projects/task_manager/app/controllers/task_manager_app.rb",
+				"/Users/loriculberson/Library/Application Support/Sublime Text 3/Packages/sublime-text-2-seeing-is-believing/Seeing Is Believing.sublime-settings",
+				"/Users/loriculberson/turing/sales_engine/Gemfile",
+				"/Users/loriculberson/turing/sales_engine/test/items_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_item.rb",
+				"/Users/loriculberson/turing/sales_engine/test/items_repository_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/item_repository.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_repository.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_item_repository.rb",
+				"/Users/loriculberson/turing/sales_engine/test/support/invoices_test_data.csv",
+				"/Users/loriculberson/turing/credit_card_check/credit_card_check2/credit.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/lib/item_repository.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/lib/repository.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/sales_engine_spec_harness/lib/sales_engine_spec_harness.rb",
+				"/Users/loriculberson/turing/projects/old_sales_engine2/sales_engine_spec_harness/csvs/invoices.csv",
+				"/Users/loriculberson/turing/Assessments/scrabble7/lib/scrabble.rb",
+				"/Users/loriculberson/turing/sales_engine/test/customers_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoice_items.rb",
+				"/Users/loriculberson/turing/sales_engine/test/invoice_items_test.rb",
+				"/Users/loriculberson/turing/sales_engine/test/invoices_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/customers_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoices_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/invoices.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/merchants.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/customers.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/items.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/transactions.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/merchants_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/test/merchants_test.rb",
+				"/Users/loriculberson/turing/sales_engine/test/invoices_repository_test.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/transactions_repo.rb",
+				"/Users/loriculberson/turing/sales_engine/lib/sales_engine.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/merchants_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/customers_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/customers.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/merchants_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/merchants_parser.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/customers_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/merchant_repository_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/invoices.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/invoices_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/items_parser.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/invoices_parser.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/items_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/items_repository_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/support/items_test_data.csv",
+				"/Users/loriculberson/Turing/sales_engine/lib/transactions_repo.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/merchants_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/items.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/merchants.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/items_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/test/support/transactions_test_data.csv",
+				"/Users/loriculberson/Turing/sales_engine/test/transactions_parser_test.rb",
+				"/Users/loriculberson/Turing/sales_engine/lib/transactions.rb",
+				"/Users/loriculberson/Turing/sales_engine/Gemfile",
+				"/Users/loriculberson/Turing/sales_engine/Rakefile",
+				"/Users/loriculberson/Turing/projects/mastermind2/Rakefile",
+				"/Users/loriculberson/Turing/sales_engine/lib/transactions_parser.rb",
+				"/Users/loriculberson/Turing/projects/old_sales_engine2/lib/transaction_repository.rb",
+				"/Users/loriculberson/Turing/projects/fib/fib.rb",
+				"/Users/loriculberson/Turing/chisel/lib/strong_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/test/\"Here is the emphasized document",
+				"/Users/loriculberson/Turing/chisel/test/\"Here is the split document",
+				"/Users/loriculberson/Turing/chisel/lib/emphasis_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/lib/header_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/lib/list_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/lib/paragraph_renderer.rb",
+				"/Users/loriculberson/Turing/chisel/test/emphasis_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/lib/document_splitter.rb",
+				"/Users/loriculberson/Turing/chisel/lib/chunk_identifier.rb",
+				"/Users/loriculberson/.rvm/rubies/ruby-2.1.3/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb",
+				"/Users/loriculberson/Turing/event_manager/lib/event_manager.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/lib/attendee.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/test/attendee_test.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/test/event_manager_test.rb",
+				"/Users/loriculberson/Turing/event_manager2/event_manager_02/Rakefile",
+				"/Users/loriculberson/Turing/Self_guided_study/Project_Euler/sum_of_multiples.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/puzzle_solver_deadwood/with_horace/sudoku.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/puzzle_solver_deadwood/with_horace/sample_puzzle.txt",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/puzzle_solver_deadwood/with_horace/sudoku_test.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/sudoku2/test/spot_test.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/test/solver_test.rb",
+				"/Users/loriculberson/Turing/projects/puzzle_solver/how_program_works.txt",
+				"/Users/loriculberson/Turing/chisel/chisel_runner.rb",
+				"/Users/loriculberson/Turing/chisel/chisel_go.rb",
+				"/Users/loriculberson/Turing/chisel/test/strong_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/test/list_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/test/header_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/Rakefile",
+				"/Users/loriculberson/Turing/chisel/test/paragraph_renderer_test.rb",
+				"/Users/loriculberson/Turing/chisel/test/chunk_identifier_test.rb",
+				"/Users/loriculberson/Desktop/sometext.html",
+				"/Users/loriculberson/Turing/chisel/Gemfile",
+				"/Users/loriculberson/Turing/chisel/test/document_splitter_test.rb",
+				"/Users/loriculberson/Turing/chisel/lib/asldkfj.md",
+				"/Users/loriculberson/Turing/chisel/chisel_deadwood/chisel_test.rb"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"save",
+					"def test",
+					"YAML",
+					"greeting",
+					"task",
+					"title",
+					"description",
+					"title",
+					"task",
+					"tasks",
+					"TaskManager",
+					"raw_tasks",
+					"TaskManager",
+					"task",
+					"TaskManager",
+					"task",
+					"Task",
+					"task",
+					"TaskManagerApp",
+					"container",
+					"id",
+					"@",
+					"invoice_id",
+					"successful",
+					"paid?",
+					"total_price",
+					"paid?",
+					"p",
+					"paid?",
+					"score",
+					"play",
+					"score",
+					"play",
+					"score",
+					"test_case_can_score_nil_as_zero",
+					"score",
+					"play",
+					"merchant",
+					"items",
+					"merchant",
+					"Merchant",
+					"merchant",
+					"Merchant",
+					"merchant",
+					"Merchants",
+					"@customers_array",
+					"customers_array",
+					" def initialize\n    @customers_array = []\n  end\n",
+					"customers_array",
+					"@customers_array",
+					"array",
+					"success",
+					"merch",
+					"invoice_test_data",
+					"InvoiceRepo",
+					"invoiceRepo",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"name",
+					"m_parser",
+					"merchants",
+					"transactions",
+					"transactions_parser",
+					"merch",
+					"Merch",
+					"merch",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"MerchantsRepo",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"MerchantsRepo",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"Merchants",
+					"merchants",
+					"m_parser",
+					"merch",
+					"MerchantsRepo",
+					" filename = './test/support/merchants_test_data.csv'",
+					"filename = ('./test/support/transactions_test_data.csv')",
+					"created_at",
+					"name",
+					"merchants"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/loriculberson/Turing/module1/ruby_lessons/ruby-exercises/mythical-creatures"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/loriculberson/Turing/module1/ruby_lessons/ruby-exercises/mythical-creatures/3centaur.rb",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 816,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										539,
+										539
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 127.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/Users/loriculberson/Turing/module1/ruby_lessons/ruby-exercises/mythical-creatures/centaur_test.rb",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1993,
+										1993
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1097.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.31427734375,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 246.0
+			},
+			"output.find_results":
+			{
+				"height": 94.0
+			},
+			"position": "0 0 71 1244 706 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"packages",
+						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+					],
+					[
+						"",
+						"chisel.rb"
+					],
+					[
+						"code",
+						"lib/code_maker.rb"
+					],
+					[
+						"itemrepo",
+						"test/item_repository_test.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 645,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

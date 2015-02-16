@@ -1,0 +1,13 @@
+{
+	"auto_indent": true,
+	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"margin": 2,
+	"save_on_focus_lost": true,
+	"smart_indent": true,
+	"tab_size": 2,
+	"wide_caret": true,
+	"word_wrap": "auto"
+}
